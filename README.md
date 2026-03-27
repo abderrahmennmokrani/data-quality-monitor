@@ -140,19 +140,19 @@ Overall Score = Σ column_score × column_weight
 
 ### Tooltip — Total Spent (5 metrics including business rule violation)
 
-![Total Spent](screenshots/Total_Spent.png)
+![Total Spent](screenshots/TotalSpent.png)
 
 ### Tooltip — Transaction ID (duplicate detection)
 
-![Transaction ID](screenshots/Transaction_ID.png)
+![Transaction ID](screenshots/TransactionID.png)
 
 ### Tooltip — Discount Applied (boolean domain validation)
 
-![Discount Applied](screenshots/Discount_Applied.png)
+![Discount Applied](screenshots/DiscountApplied.png)
 
 ### Tooltip — Transaction Date (temporal outliers & format issues)
 
-![Transaction Date](screenshots/Transaction_Date.png)
+![Transaction Date](screenshots/TransactionDate.png)
 
 ---
 

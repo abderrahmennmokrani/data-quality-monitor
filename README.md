@@ -176,7 +176,7 @@ This dashboard is designed as a reusable framework. The scoring model, column ty
 
 **Abderrahmen Mokrani** — Senior Product Owner | Digital & Data Products
 
-[LinkedIn](https://www.linkedin.com/in/abderrahmen-mokrani) · PSPO II · PSM II · Power BI · DAX · SQL · Python
+[LinkedIn](www.linkedin.com/in/a-mokrani) · PSPO II · PSM II · Power BI · DAX · SQL · Python
 
 *This project is part of a GitHub portfolio demonstrating end-to-end data product ownership — from business need definition to technical implementation.*
 
@@ -361,6 +361,6 @@ Ce dashboard est conçu comme un framework réutilisable. Le modèle de scoring,
 
 **Abderrahmen Mokrani** — Senior Product Owner | Produits Digitaux & Data
 
-[LinkedIn](https://www.linkedin.com/in/abderrahmen-mokrani) · PSPO II · PSM II · Power BI · DAX · SQL · Python
+[LinkedIn](www.linkedin.com/in/a-mokrani) · PSPO II · PSM II · Power BI · DAX · SQL · Python
 
 *Ce projet fait partie d'un portfolio GitHub démontrant une maîtrise end-to-end de la gestion de produits data — de la définition du besoin métier à l'implémentation technique.*

@@ -325,19 +325,19 @@ Score global = Σ score_colonne × poids_colonne
 
 ### Tooltip — Total Spent (5 métriques dont violation de règle métier)
 
-![Total Spent](screenshots/Total_Spent.png)
+![Total Spent](screenshots/TotalSpent.png)
 
 ### Tooltip — Transaction ID (détection de doublons)
 
-![Transaction ID](screenshots/Transaction_ID.png)
+![Transaction ID](screenshots/TransactionID.png)
 
 ### Tooltip — Discount Applied (validation du domaine booléen)
 
-![Discount Applied](screenshots/Discount_Applied.png)
+![Discount Applied](screenshots/DiscountApplied.png)
 
 ### Tooltip — Transaction Date (outliers temporels & problèmes de format)
 
-![Transaction Date](screenshots/Transaction_Date.png)
+![Transaction Date](screenshots/TransactionDate.png)
 
 ---
 
